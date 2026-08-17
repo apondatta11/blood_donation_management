@@ -1,13 +1,5 @@
 # 🩸 LifeFlow - Blood Donation Management System (MVP)
 
-**Course:** CSE 3206 – Software Engineering Sessional  
-**Institution:** Rajshahi University of Engineering & Technology (RUET)  
-**Lab Assignment:** Lab 2 – Software Process Models, Requirement Analysis & MVP Development  
-**Project Assignment:** Project #7 – Blood Donation Management System  
-**Selected Software Process Model:** Agile Scrum  
-
----
-
 ## 🌟 Overview & Features
 
 LifeFlow is a modern, responsive, glassmorphism-styled Minimum Viable Product (MVP) built to facilitate emergency blood donation matching, donor availability tracking, and central blood bank inventory monitoring.
@@ -49,8 +41,8 @@ LifeFlow is a modern, responsive, glassmorphism-styled Minimum Viable Product (M
 git checkout main
 git pull origin main
 
-# 2. Each member creates their feature branch
-git checkout -b feature/auth-user-management     # Member 1 (Scrum Mgr)
+# 2. Each member created their feature branch
+git checkout -b feature/auth-user-management     # Member 1 
 git checkout -b feature/donor-search-requests    # Member 2
 git checkout -b feature/dashboard-inventory      # Member 3
 
